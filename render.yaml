@@ -4,4 +4,4 @@ services:
     env: python
     schedule: "0 3 * * *"  # every day at 8:30 AM IST
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "python main.py"
+    startCommand: "New_main.py"
